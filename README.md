@@ -2,6 +2,8 @@
 
 This project implements a face recognition system for attendance tracking using a pre-trained ViT model and Gradio interface.
 
+![Face Recognition Attendance System Gradio Interface](images/gradio_interface.jpg)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
