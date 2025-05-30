@@ -1,0 +1,6 @@
+transformers
+torch
+torchvision
+gradio
+Pillow
+pandas 
