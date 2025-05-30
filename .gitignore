@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 student_embeddings.pkl
 attendance_records.csv
+.cursor/rules/
