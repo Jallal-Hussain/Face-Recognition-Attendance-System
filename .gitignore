@@ -3,3 +3,5 @@ __pycache__/
 student_embeddings.pkl
 attendance_records.csv
 .cursor/rules/
+dataset/
+*.pkl

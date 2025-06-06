@@ -83,7 +83,7 @@ project_root/
 │       └── ...
 ├── attendance_records.csv
 └── README.md
-```
+``` 
 
 ## Setup
 

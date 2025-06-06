@@ -49,6 +49,7 @@ def generate_and_save_embeddings(dataset_path, model, processor):
                              embedding = outputs.hidden_states[-1][:, 0, :].squeeze().numpy()
 
                     embeddings.append(embedding)
+                    print("reg no ", image_paths)
                 except Exception as e:
                     print(f"Error generating embedding for {image_path}: {e}")
 
